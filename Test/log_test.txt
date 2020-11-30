@@ -1,15 +1,17 @@
-LOG_INFO 2020-11-22 17:38:03 project_text pid: 23544 main: 26 1
-LOG_INFO 2020-11-22 18:00:20 project_text pid: 5292 main: 26 1
-LOG_INFO 2020-11-22 18:01:05 project_text pid: 10008 main: 26 1
-LOG_INFO 2020-11-22 18:03:09 project_text pid: 9516 main: 26 1
-LOG_INFO 2020-11-22 18:04:17 project_text pid: 5100 main: 26 1
-LOG_INFO 2020-11-22 18:06:17 project_text pid: 13644 main: 26 1
-LOG_INFO 2020-11-22 18:08:19 project_text pid: 7720 main: 25 1
-LOG_INFO 2020-11-22 18:11:53 project_text pid: 24228 main: 29 1
-LOG_INFO 2020-11-22 18:11:53 project_text pid: 24228 Testlog: 22 1111-10hhhh
-LOG_WARNING 2020-11-22 18:11:53 project_text pid: 24228 Testlog: 23 222aa
-LOG_ERROR 2020-11-22 18:11:53 project_text pid: 24228 Testlog: 24 3333999shfoew
-LOG_INFO 2020-11-22 18:13:48 project_text pid: 9516 main: 29 1
-LOG_INFO 2020-11-22 18:13:48 project_text pid: 9516 Testlog: 22 1111 -10 hhhh
-LOG_WARNING 2020-11-22 18:13:48 project_text pid: 9516 Testlog: 23 222 aa
-LOG_ERROR 2020-11-22 18:13:48 project_text pid: 9516 Testlog: 24 3333 999 shfoew
+LOG_INFO 2020-11-30 15:30:26 project_text pid: 18708 Testlog: 26 this is info --------------- -10 hhhh
+LOG_WARNING 2020-11-30 15:30:26 project_text pid: 18708 Testlog: 27 this is warning ------------ aa
+LOG_INFO 2020-11-30 15:30:26 project_text pid: 18708 WriteLog: 41 thread ID: 6376 Current Time: 2020-11-30 15:30:26
+LOG_ERROR 2020-11-30 15:30:26 project_text pid: 18708 Testlog: 28 this is error ------------ 999 shfoew
+LOG_INFO 2020-11-30 15:30:26 project_text pid: 18708 WriteLog: 41 thread ID: 3352 Current Time: 2020-11-30 15:30:26
+LOG_INFO 2020-11-30 15:30:26 project_text pid: 18708 WriteLog: 41 thread ID: 6376 Current Time: 2020-11-30 15:30:26
+LOG_INFO 2020-11-30 15:30:26 project_text pid: 18708 WriteLog: 41 thread ID: 3352 Current Time: 2020-11-30 15:30:26
+LOG_INFO 2020-11-30 15:30:27 project_text pid: 18708 WriteLog: 41 thread ID: 3352 Current Time: 2020-11-30 15:30:27
+LOG_INFO 2020-11-30 15:30:27 project_text pid: 18708 WriteLog: 41 thread ID: 6376 Current Time: 2020-11-30 15:30:27
+LOG_INFO 2020-11-30 15:30:27 project_text pid: 18708 WriteLog: 41 thread ID: 6376 Current Time: 2020-11-30 15:30:27
+LOG_INFO 2020-11-30 15:30:27 project_text pid: 18708 WriteLog: 41 thread ID: 3352 Current Time: 2020-11-30 15:30:27
+LOG_INFO 2020-11-30 15:30:28 project_text pid: 18708 WriteLog: 41 thread ID: 6376 Current Time: 2020-11-30 15:30:28
+LOG_INFO 2020-11-30 15:30:28 project_text pid: 18708 WriteLog: 41 thread ID: 3352 Current Time: 2020-11-30 15:30:28
+LOG_INFO 2020-11-30 15:30:28 project_text pid: 18708 WriteLog: 41 thread ID: 3352 Current Time: 2020-11-30 15:30:28
+LOG_INFO 2020-11-30 15:30:28 project_text pid: 18708 WriteLog: 41 thread ID: 6376 Current Time: 2020-11-30 15:30:28
+LOG_INFO 2020-11-30 15:30:29 project_text pid: 18708 WriteLog: 41 thread ID: 3352 Current Time: 2020-11-30 15:30:29
+LOG_INFO 2020-11-30 15:30:29 project_text pid: 18708 WriteLog: 41 thread ID: 6376 Current Time: 2020-11-30 15:30:29

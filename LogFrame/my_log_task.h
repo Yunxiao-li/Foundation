@@ -32,17 +32,5 @@ namespace myspace
     private:       
         Log::LogTaskImpl m_Impl;
     };
-
-    //class LogTask : public Singleton<LogTask> {
-    //public:
-    //    void Initialize();
-
-    //    ~LogTask();
-    //private:
-    //    void Start(void);
-    //    void Stop(void);
-    //    Log::LogTaskImpl m_pl;
-    //    static bool m_LogTaskInitialized;
-    //};
 }
 

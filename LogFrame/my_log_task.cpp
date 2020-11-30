@@ -119,30 +119,3 @@ void LogTask::Stop(void)
 {
     m_Impl.Stop();
 }
-
-//bool LogTask::m_LogTaskInitialized = false;
-
-//void LogTask::Initialize()
-//{
-//    if (!m_LogTaskInitialized)
-//    {
-//        Start();
-//        m_LogTaskInitialized = true;
-//    }
-//}
-//
-//void LogTask::Start(void)
-//{
-//    m_pl.Start();
-//}
-//
-//LogTask::~LogTask()
-//{
-//    m_pl.Stop();
-//}
-//
-//
-//void LogTask::Stop(void)
-//{
-//    // DO NOT SUPPORT IT
-//}
